@@ -8,7 +8,9 @@
 
 <br/><br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://linkedin.com/in/abhinav-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](www.linkedin.com/in/abhinav-c-877ab3253
+
+)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-6D28D9?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:abhinavc038@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d1a)](https://github.com/Abhinav-C-7)
 
