@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abhinav%20C&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%26%20React%20Native%20Developer&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=190&section=header&text=Abhinav%20C&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%C2%B7%20React%20Native%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+TrainLabs+solo+%E2%80%94+live+at+trainlabs.app;React+Native+%C2%B7+React+%C2%B7+NestJS+%C2%B7+PostgreSQL;Schema+%E2%86%92+API+%E2%86%92+app+%E2%86%92+deploy.+End+to+end." alt="Typing SVG" />
 
