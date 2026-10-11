@@ -7,7 +7,7 @@
 <br/><br/>
 
 [![TrainLabs](https://img.shields.io/badge/TrainLabs-Live%20%E2%86%97-7C3AED?style=for-the-badge&labelColor=0d0d1a)](https://trainlabs.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/abhinav-c-877ab3253)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d1a)](https://www.linkedin.com/in/abhinav-c-dev)
 [![Email](https://img.shields.io/badge/Email-Say%20hi-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d1a)](mailto:abhinavc038@gmail.com)
 [![IEEE](https://img.shields.io/badge/IEEE-Published-4C1D95?style=for-the-badge&logo=ieee&logoColor=white&labelColor=0d0d1a)](https://doi.org/10.1109/NetACT65906.2025.11188147)
 
